@@ -1,1 +1,1 @@
-Run the python script and follow the prompts.
+Run the Python script and follow the prompts.
