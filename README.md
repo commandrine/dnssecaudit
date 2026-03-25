@@ -1,1 +1,1 @@
-dnssecaudit is a small Python utility that helps you audit domain names for DNSSEC support by checking for DNSSEC-related DNS records. It supports auditing a single domain or a list of domains from a file, prints results to the console, and can generate a date-stamped text report of which domains have DNSSEC enabled.
+Run the python script and follow the prompts.
